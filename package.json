@@ -1,0 +1,12 @@
+{
+  "name": "project-stuff",
+  "version": "1.0.0",
+  "description": "Random Project Stuff",
+  "main": "movies.js",
+  "scripts": {
+    "test": "test"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
